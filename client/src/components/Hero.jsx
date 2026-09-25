@@ -17,7 +17,7 @@ function Hero() {
             See my projects
             </a>
 <a href="#contact" className="btn btn-outline">
-    +9936849591 
+            Contact me
 </a>
 </div>
 </div>
